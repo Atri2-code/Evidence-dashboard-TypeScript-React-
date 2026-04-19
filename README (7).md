@@ -1,4 +1,4 @@
-# evidence-dashboard (TypeScript / React)
+# Evidence-dashboard (TypeScript / React)
 
 > Browser-based forensic video analysis dashboard. Drop in a video file, extract metadata, detect integrity anomalies, and review findings — all client-side with zero backend required.
 
